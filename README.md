@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# PyChakra
 
-You can use the [editor on GitHub](https://github.com/pychakra/pychakra.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### About :
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+PyChakra is a open-source, Python-based, configurable, 
+manageable, and lightweight WSGI HTTP server.
 
-### Markdown
+### Powered by:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Github Pages](https://pages.github.com)
 
-```markdown
-Syntax highlighted code block
+Jekyll Themes
 
-# Header 1
-## Header 2
-### Header 3
+### License:
 
-- Bulleted
-- List
+[Website](https://pychakra.github.io/license.txt)
 
-1. Numbered
-2. List
+### Good bye! Have fun!
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pychakra/pychakra.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
