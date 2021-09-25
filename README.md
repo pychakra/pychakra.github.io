@@ -13,7 +13,7 @@ Jekyll Themes
 
 ### License:
 
-[Website](https://pychakra.github.io/license.txt)
+[Website](https://pychakra.github.io/license.html)
 
 ### Good bye! Have fun!
 
