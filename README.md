@@ -1,5 +1,3 @@
-# PyChakra
-
 ### About :
 
 PyChakra is a open-source, Python-based, configurable, 
