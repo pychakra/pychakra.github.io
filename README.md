@@ -21,7 +21,7 @@ Run app.py inside the folder PyChakra. You can view the docs for more info.
 - Python Interpreter 3.6.9 stable or above.
 - datetime,os, and socket module ( Included in Python Interpreter 3 ) .
 
-That's it. No more.
+That's it. Not much.
 
 ### Powered by:
 
