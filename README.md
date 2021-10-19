@@ -31,7 +31,8 @@ Jekyll Themes
 
 ### License:
 
-[Website](https://www.gnu.org/licenses/gpl-3.0.html)
+[Website License](https://www.gnu.org/licenses/gpl-3.0.html)
+[PyChakra License](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ### Good bye! Have fun!
 
