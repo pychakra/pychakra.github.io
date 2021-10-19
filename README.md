@@ -14,7 +14,7 @@ manageable, and lightweight WSGI HTTP server.
 - NOTE : Python module is not available yet.
 - Run app.py inside the folder PyChakra. You can view the docs for more info.
 
-#### Requirements :
+### Requirements :
 
 - A working computer and a working OS.
 - A browser and a code text editor that supports Python and .MD files.
