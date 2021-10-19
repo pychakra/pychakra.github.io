@@ -7,9 +7,9 @@ manageable, and lightweight WSGI HTTP server.
 
 ### Repository :
 
--You can download PyChakra right [here](https://github.com/pychakra/pychakra).
--For archive, you can download the archive right [here](https://github.com/pychakra/pychakra-archive).
--Just click the code button, and then download the zip file.
+- You can download PyChakra right [here](https://github.com/pychakra/pychakra).
+- For archive, you can download the archive right [here](https://github.com/pychakra/pychakra-archive).
+- Just click the code button, and then download the zip file.
 
 - NOTE : Python module is not available yet.
 - Run app.py inside the folder PyChakra. You can view the docs for more info.
